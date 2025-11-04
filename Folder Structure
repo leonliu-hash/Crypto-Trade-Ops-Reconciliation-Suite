@@ -1,0 +1,34 @@
+/daily-reports
+    trade-blotter.xlsx
+    pnl-reconciliation.xlsx
+    funding-fees-log.xlsx
+    wallet-movements.xlsx
+    margin-collateral-tracker.xlsx
+
+/workflow-docs
+    trade-lifecycle-checklist.md
+    wallet-security-controls.md
+    collateral-movement-approval-process.md
+    audit-trail-sample.md
+
+/scripts
+    reconciliation_sample_python.ipynb (placeholder)
+    api-data-fetch-outline.md
+
+/readme-assets
+    workflow-diagram.txt
+Sample Use Case Scenarios
+
+• Spot trades booked executed reconciled settled
+• Derivatives funding verification and margin check
+• Whitelisted wallet transfers with dual verification
+• Daily realized and unrealized PnL review
+• Internal ledger vs exchange account reconciliation
+
+Next Roadmap
+
+• Add Python ledger reconciliation script
+• Add API position pull examples (Bitget Ourbit OKX)
+• Upload trade testing dataset
+• Create automated reporting notebook
+• Provide mock SOX audit control matrix
